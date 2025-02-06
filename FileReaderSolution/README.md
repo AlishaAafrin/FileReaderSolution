@@ -60,9 +60,9 @@ Update `appsettings.json` in both Producer and Consumer services with:
 
 ### Running Services
 
-#### Start RabbitMQ (Docker)
+#### Start RabbitMQ
 
-#### Start PostgreSQL (Docker)
+#### Start PostgreSQL
 
 
 #### Start Producer Service
