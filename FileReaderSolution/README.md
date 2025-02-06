@@ -41,7 +41,7 @@ The system consists of three main components:
 Ensure you have the following installed:
 
 - **.NET Core** (for API and microservices)
-- **PostgreS****QL** (for data storage)
+- **PostgreSQL** (for data storage)
 - **RabbitMQ** (for message queuing)
 
 ### Clone Repository
