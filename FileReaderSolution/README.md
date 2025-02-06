@@ -1,4 +1,4 @@
-# Task Assessment - Alisha 
+# Task Assessment
 
 ## Task Overview
 
@@ -47,8 +47,8 @@ Ensure you have the following installed:
 ### Clone Repository
 
 ```sh
- git clone <repo-url>
- cd <project-folder>
+ git clone https://github.com/AlishaAafrin/FileReaderSolution/
+
 ```
 
 ### Configuration
@@ -95,4 +95,6 @@ cd FileReaderWebApi
 
 ```http
 GET <HOST>:<PORT>/api/data?pageno=1&pagesize=10&name=xyz
+local sample tested url: http://localhost:5108/api/FileData?pageno=1&pagesize=10&name=Test
+
 ```
